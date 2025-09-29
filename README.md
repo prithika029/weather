@@ -1,6 +1,6 @@
-# Project Title (This is a template README.md file that you can adapt to your project)
+# Weather
 
-> A brief description of what the project does and its purpose.
+Rainfall comparison between the cities Seattle and Miami.
 
 ---
 
@@ -28,7 +28,7 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ## Data
 
-- **Source:** Link to the data source(s) 
+- Source: http://localhost:8888/tree/Weather/data
 - **Description:** Brief overview of the dataset features, size, and format
 - **License:** (if applicable)
 
