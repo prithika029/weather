@@ -1,6 +1,6 @@
-# Weather
+# Seattle weather project
 
-Rainfall comparison between the cities Seattle and Miami.
+Rainfall comparison between the cities Seattle, WA and Miami, FL.
 
 ---
 
@@ -8,9 +8,9 @@ Rainfall comparison between the cities Seattle and Miami.
 
 Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
 
-- **Objective:** Clearly state the main goal of the project.
-- **Domain:** (e.g., Healthcare, Finance, E-commerce, etc.)
-- **Key Techniques:** (e.g., Regression, Classification, Clustering, NLP, Time Series)
+- **Objective:** Rainfall comparison between the cities Seattle, WA and Miami, FL.
+- **Domain:** Weather
+- **Key Techniques:** Exploratory data analysis
 
 ---
 
@@ -28,7 +28,7 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ## Data
 
-- Source: http://localhost:8888/tree/Weather/data
+- **Source:** https://github.com/prithika029/weather/tree/main/data
 - **Description:** Brief overview of the dataset features, size, and format
 - **License:** (if applicable)
 
