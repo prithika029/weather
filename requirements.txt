@@ -1,0 +1,2 @@
+Tool : Jupyter notebook 
+Libraries : pandas, numpy, matplotlib, pyplot, seaborn

@@ -6,8 +6,6 @@ This project explores and compares rainfall patterns between Seattle, Washington
 
 ## Project Overview
 
-Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
-
 - **Objective:** Rainfall comparison between the cities Seattle, WA and Miami, FL.
 - **Domain:** Weather
 - **Key Techniques:** Exploratory data analysis
@@ -36,39 +34,23 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ## Analysis
 
+The analysis was performed using jupyter notebooks that process and visualize rainfall data from Seattle, WA and Miami, FL for the period 2018–2022. 
 
-Compare mean precipitation values averaged over all days
+The below steps are followed as part of analysis.
 
-Precipitation by month
-
-Add the column to the dataframe with the number of the month
-
-Plot the distribution of precipitation amounts each month using boxplots
-
-Plot the mean precipitation each month
-
-Computing the mean precipitation each month
-
-Plot the proportion of days with any precipitation
-
-Add a variable to the dataframe that indicates whether there was any precipitation
-
-Plot the proportion of days with any precipitation over the 5 years
-
-Plot the proportion of days with precipitation each month
-
-Plot the mean precipitation each month with a star for significant differences
-
-Performing a statistical test for differences in the proportion of days with any precipitation each month between the cities
-
-Plot the proportion of days with any precipitation each month with a star for significant differences
-
+Ensure all dates are present, filling in missing dates where necessary and handle missing precipitation values.
+Calculate monthly mean, and medians of precipitation.
+Calculate the proportion of days with rainfall for each month.
+Create box plots to examine monthly precipitation distributions.
+Generate bar plots showing mean precipitation for each month with error bars.
+Plot the proportion of days with rainfall per month, marking significant differences with star symbols.
+Perform tests to identify months with significant differences in precipitation patterns between Seattle and Miami.
 
 ---
 
 ## Results
 
-The result shows clear seasonal differences between the two cities. Seattle experiences rain more frequently throughout most of the year, especially during the fall and winter months (October–March). Miami, on the other hand, receives less frequent rain overall but has a noticeable increase during the summer months (June–September) due to its tropical climate and hurricane season.Overall, Seattle has more rainy days, while Miami tends to have heavier rainfall concentrated in fewer months.
+The result shows clear seasonal differences between the two cities. Seattle experiences rain more frequently throughout most of the year, especially during the fall and winter months (October–March). Miami, on the other hand, receives less frequent rain overall but has a noticeable increase during the summer months (June–September) due to its tropical climate and hurricane season. Overall, Seattle has more rainy days, while Miami tends to have heavier rainfall concentrated in fewer months.
 
 ---
 
