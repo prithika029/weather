@@ -61,9 +61,7 @@ The result shows clear seasonal differences between the two cities. Seattle expe
 ---
 
 ## License
-
-Not Applicable
-
+This project is licensed under the MIT License - see the LICENSE file for details.
 ---
 
 ## Acknowledgements
