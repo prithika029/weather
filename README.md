@@ -1,4 +1,4 @@
-# Seattle weather project
+# Weather project
 
 This project explores and compares rainfall patterns between Seattle, Washington and Miami, Florida using real weather data. While Seattle is often known for its frequent drizzle and cloudy days, Miami experiences tropical rainstorms and a humid climate. Using data science methods, this project analyzes precipitation trends to determine which city actually receives more rain and how rainfall varies throughout the year. Visualizations and statistical tests are used to support the findings and provide insights into each city’s unique weather characteristics.
 
@@ -24,11 +24,9 @@ This project explores and compares rainfall patterns between Seattle, Washington
 
 ---
 
-## Data
-
-- **Source:** https://github.com/prithika029/weather/tree/main/data
-- **Description:** Brief overview of the dataset features, size, and format
-- **License:** (if applicable)
+## Data Source:
+Miami dataset - https://www.ncei.noaa.gov/
+Seattle dataset - https://github.com/brian-fischer/DATA-5100/tree/main/weather
 
 ---
 
